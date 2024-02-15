@@ -23,7 +23,7 @@ def show_stone(name):
 
 print("HELLO BABE")
 for stone in Stones_list:
-    print(f"|{stone.Power}| Stone|")
+    print(f"{stone.Power} Stone")
     max_length = max(len(stone.Power) for stone in Stones_list) + 7  # Adjusted to consider the extra characters
     print("-" * max_length)
 
