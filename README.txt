@@ -1,6 +1,7 @@
 Quera Ease level qestion!
 
 Thanos won the war and killed near 4 billion people but lost one of his power!
+[image]https://quera.org/qbox/view/NAfxEsaZyh/A.jpg
 
 
 He cant understand the colors now ! (Why and what happend isnt our problem)
@@ -21,4 +22,3 @@ the whole code is working by inheritance and not (if & else)
 
 
 The sorce is here give it a chance : [text]https://quera.org/problemset/211019
-[image]https://quera.org/qbox/view/NAfxEsaZyh/A.jpg
